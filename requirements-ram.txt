@@ -61,6 +61,6 @@ tomli==2.0.1
 tqdm==4.62.3
 twine==4.0.1
 urllib3==1.26.9
-virtualenv==20.14.1
+virtualenv==20.26.6
 webencodings==0.5.1
 zipp==3.8.0
